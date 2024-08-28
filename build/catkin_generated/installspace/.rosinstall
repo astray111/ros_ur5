@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/astray/robot_ws/install/setup.sh

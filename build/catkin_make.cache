@@ -1,0 +1,2 @@
+ur5
+-DCATKIN_DEVEL_PREFIX=/home/astray/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/astray/robot_ws/install -G Unix Makefiles
