@@ -1,6 +1,7 @@
 <launch>
   <arg
-    name="model" />
+    name="model" 
+    default="Ture" />
   <param
     name="robot_description"
     textfile="$(find ur5)/urdf/ur5.urdf" />

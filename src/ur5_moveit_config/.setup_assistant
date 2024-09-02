@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5
+    relative_path: urdf/ur.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5.srdf
+  CONFIG:
+    author_name: astray
+    author_email: cs_l0408@163.com
+    generated_timestamp: 1725000835

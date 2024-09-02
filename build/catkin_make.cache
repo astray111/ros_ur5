@@ -1,2 +1,2 @@
-ur5
+ur5:ur5_gazebo:ur5_moveit_config
 -DCATKIN_DEVEL_PREFIX=/home/astray/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/astray/robot_ws/install -G Unix Makefiles

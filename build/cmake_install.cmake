@@ -136,6 +136,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/astray/robot_ws/build/gtest/cmake_install.cmake")
+  include("/home/astray/robot_ws/build/ur5_gazebo/cmake_install.cmake")
+  include("/home/astray/robot_ws/build/ur5_moveit_config/cmake_install.cmake")
   include("/home/astray/robot_ws/build/ur5/cmake_install.cmake")
 
 endif()
